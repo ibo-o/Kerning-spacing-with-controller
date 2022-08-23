@@ -7,7 +7,7 @@ I use this method in Mac OS and Glyphs 3 but I believe this can be implemented i
 
 ### **How to use**
 1. You need a controller. It can be anything compatible with your OS. I'm using [this](https://www.powera.com/p/nintendo/nintendo-switch/controllers/wired/enhanced-wired-controller-for-nintendo-switch-purple-frost-1513054-01/).
-2. If you don't have [Steam](https://store.steampowered.com/about/) installed on your computer. You need to download & install it.
+2. If you don't have [Steam](https://store.steampowered.com/about/) installed on your computer you need to download & install.
 3. Sign-in Steam, plug in your controller and go to **Steam > Preferences > General Controller Settings**
 4. Select the best pre-set option for your controller. Go back
 <p align="center">
