@@ -11,11 +11,11 @@ I use this method in Mac OS and Glyphs 3 but I believe this can be implemented i
 3. Sign-in Steam, plug-in your controller and go **Steam > Preferences > General Controller Settings**
 4. Select the best pre-set option for your controller. Go back
 <p align="center">
-<img src="https://raw.githubusercontent.com/obiobik/Kerning-with-controller/master/images/GeneralControllerSettings.jpeg">
+<img src="https://raw.githubusercontent.com/obiobik/Kerning-spacing-with-controller/master/images/GeneralControllerSettings.jpeg">
 
 5. Back to **Preferences** window > **Desktop Configuration**. You will see the interface shows your controller's assigned buttons.
 <p align="center">
-<img src="https://raw.githubusercontent.com/obiobik/Kerning-with-controller/master/images/DesktopConfigration.jpeg">
+<img src="https://raw.githubusercontent.com/obiobik/Kerning-spacing-with-controller/master/images/GeneralControllerSettings.jpeg">
 
 6. To change the default button assignments, click on one of the command names lined up around the controller. Here I selected the button on the bottom left (L2 for PS, LT for Xbox, ZL for Nintendo)
 <p align="center">
@@ -45,9 +45,3 @@ My button set up is still under development. I like the experience of spacing & 
 * [Show Each Glyph in Context](https://github.com/weiweihuanghuang/wei-glyphs-scripts/blob/master/Spacing/Show%20Each%20in%20Context%20Replace.py)
 * [Show Each Glyph in Context (New Tab)](https://github.com/weiweihuanghuang/wei-glyphs-scripts/blob/master/Spacing/Show%20Each%20in%20Context.py)
 * [Mekkablue's Kerning Scripts](https://github.com/mekkablue/Glyphs-Scripts/tree/master/Kerning)
-
-
-
-
-
-sdlfjkhskdjfjsdkjfjskldfjsjkdf
