@@ -15,21 +15,28 @@ I use this method in Mac OS and Glyphs 3 but I believe this can be implemented i
 
 5. Back to **Preferences** window > **Desktop Configuration**. You will see the interface shows your controller's assigned buttons.
 <p align="center">
-<img src="https://raw.githubusercontent.com/obiobik/Kerning-spacing-with-controller/master/images/GeneralControllerSettings.jpeg">
+<img src="https://raw.githubusercontent.com/obiobik/Kerning-spacing-with-controller/master/images/DesktopConfiguration.jpeg">
 
 6. To change the default button assignments, click on one of the command names lined up around the controller. Here I selected the button on the bottom left (L2 for PS, LT for Xbox, ZL for Nintendo)
 <p align="center">
-<img src="https://raw.githubusercontent.com/obiobik/Kerning-with-controller/master/images/Desktop_Configration.jpeg?token=GHSAT0AAAAAABXL542UY4UVLCDH77X6SQ36YYE73WA">
+<img src="https://raw.githubusercontent.com/obiobik/Kerning-spacing-with-controller/master/images/Screen%20Shot%202022-08-23%20at%2019.34.32.jpg">
 
 7. Click on **Full Pull Action**
+<p align="center">
+<img src="https://raw.githubusercontent.com/obiobik/Kerning-spacing-with-controller/master/images/Screen%20Shot%202022-08-23%20at%2017.17.48.jpg">
+
 8.  First **Remove** the assignment, (If that button will include multiple keys) **Toggle Multi-Button On**, then assign the desired keys either by using keyboard or mouse or controller. Go back
+<p align="center">
+<img src="https://raw.githubusercontent.com/obiobik/Kerning-spacing-with-controller/master/images/Screen%20Shot%202022-08-23%20at%2017.17.55.jpg">
+
 9. Change all the buttons according to your needs
+
 10. When you are done with configuration > **Export Config > Save to Local or Cloud storage** You can save as many configurations as you want and apply them whenever you need.
 
 ### **Button Setup**
 My button set up is still under development. I like the experience of spacing & kerning with using the left stick more than just pressing the buttons.
 <p align="center">
-<img src="https://raw.githubusercontent.com/obiobik/Kerning-with-controller/master/images/Desktop_Configration.jpeg?token=GHSAT0AAAAAABXL542UY4UVLCDH77X6SQ36YYE73WA">
+<img src="https://raw.githubusercontent.com/obiobik/Kerning-spacing-with-controller/master/images/Screen%20Shot%202022-08-23%20at%2016.47.00.jpg">
 
 
 *If the controller works well you are ready to do spacing & kerning.*
